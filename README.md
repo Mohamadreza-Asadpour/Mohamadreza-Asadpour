@@ -125,9 +125,6 @@ I'm an **AI Engineer and Full-Stack Developer** working at the intersection of m
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamadreza-Asadpour&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamadreza-Asadpour&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101426,50:6D5DFB,100:22D3EE&height=3&section=header" width="100%"/>
 
